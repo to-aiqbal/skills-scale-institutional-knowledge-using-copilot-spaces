@@ -40,4 +40,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (QA Lead owns — see [Roles and Personas](octoacme-roles-and-personas.md))
+- [ ] UX designs or prototypes available for planned features
+- [ ] Documentation plan agreed with Technical Writer
+- [ ] Ownership confirmed per phase using [Roles and Responsibilities Matrix](octoacme-roles-and-responsibilities-matrix.md)

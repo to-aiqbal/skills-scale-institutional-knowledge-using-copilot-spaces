@@ -14,10 +14,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (include UX Designer and Customer Success Manager where customer-facing work is in scope)
 - High-level timeline and key milestones
 - Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Resource needs (team roles, rough effort estimate — see [Roles and Personas](octoacme-roles-and-personas.md) for role definitions)
 
 ## Project One-pager Template
 - Project name:
@@ -35,6 +35,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Role assignments confirmed — reference [Roles and Responsibilities Matrix](octoacme-roles-and-responsibilities-matrix.md) for phase ownership
 
 ## Decision Gate
 Move to planning when:
