@@ -20,8 +20,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Security scanning in CI (Security/Compliance Lead owns — see [Roles and Personas](octoacme-roles-and-personas.md))
+- Manual QA for feature acceptance when needed (QA Lead coordinates — see [Roles and Personas](octoacme-roles-and-personas.md))
+- UX Designer reviews implemented features against design specs before acceptance
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +39,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA Lead engaged for feature acceptance and defect triage
+- [ ] Role hand-offs followed per [Roles and Responsibilities Matrix](octoacme-roles-and-responsibilities-matrix.md)

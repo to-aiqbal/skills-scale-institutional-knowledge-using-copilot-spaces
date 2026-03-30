@@ -20,6 +20,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Customer Success Manager brings aggregated customer feedback themes to inform improvement priorities (see [Roles and Personas](octoacme-roles-and-personas.md))
 
 ## Example Action Item Template
 - Title:
@@ -31,3 +32,4 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Use the [Roles and Responsibilities Matrix](octoacme-roles-and-responsibilities-matrix.md) to review and refine ownership and hand-offs each cycle
